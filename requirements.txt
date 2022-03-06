@@ -1,0 +1,10 @@
+backports.shutil-get-terminal-size==1.0.0
+click==8.0.4
+colorama==0.4.4
+flake8==4.0.1
+mccabe==0.6.1
+pycodestyle==2.8.0
+pyflakes==2.4.0
+python-vlc==3.0.16120
+reprint==0.6.0
+six==1.16.0
