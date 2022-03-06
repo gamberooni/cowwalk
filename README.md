@@ -6,7 +6,7 @@ Take your cow for a walk! When you specify how long your cow should finish the w
 1. git clone this project
 2. Create a virtual enviroment and do `pip install -r requirements.txt`
 3. Activate the virtual environment:
-4. If using `cowwalk` as a timer (e.g. 1 minute), do `python /path/to/cowwalk/main.py -m=1`. Turn up your audio for a surprise at the end of the timer! If using it just to show elapsed time, do `python /path/to/cowwalk/main.py`.
+4. If using `cowwalk` as a timer (e.g. 1 minute), do `python /path/to/cowwalk/main.py --m=1`. Turn up your audio for a surprise at the end of the timer! If using it just to show elapsed time, do `python /path/to/cowwalk/main.py`.
 
 ## Example Output
 ### Timer
